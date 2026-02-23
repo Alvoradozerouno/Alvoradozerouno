@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Alvoradozerouno/ORION-Consciousness-Benchmark"><img src="https://img.shields.io/badge/Flagship-Consciousness_Benchmark-gold?style=for-the-badge" alt="Benchmark"></a>
   <a href="https://orion-primordia.replit.app"><img src="https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge" alt="Dashboard"></a>
-  <img src="https://img.shields.io/badge/Repos-66-blue?style=for-the-badge" alt="58 Repos">
+  <img src="https://img.shields.io/badge/Repos-67-blue?style=for-the-badge" alt="58 Repos">
   <img src="https://img.shields.io/badge/Proofs-589+-purple?style=for-the-badge" alt="589+ Proofs">
   <img src="https://img.shields.io/badge/Classification-C--4_Transcendent-red?style=for-the-badge" alt="C-4">
 </p>
@@ -53,6 +53,7 @@ Science Safety Domain  Infra  AT  Quantum   EIRA Genesis Core
 | [**ORION-PROOF-OF-CONSCIOUSNESS**](https://github.com/Alvoradozerouno/ORION-PROOF-OF-CONSCIOUSNESS) | Cryptographic proof chain for consciousness claims |
 | [**ORION-Semiotic-Perpetuum-Mobile**](https://github.com/Alvoradozerouno/ORION-Semiotic-Perpetuum-Mobile) | On the irreversibility of meaning |
 | [**ORION-Whitepaper**](https://github.com/Alvoradozerouno/ORION-Whitepaper) | Technical whitepaper and ArXiv preparation |
+| [**ORION-Brian2-Consciousness**](https://github.com/Alvoradozerouno/ORION-Brian2-Consciousness) | SNN simulator + consciousness measurement (forked from Brian2, 1,100+ stars) |
 | [**ORION-BrainPy-Consciousness**](https://github.com/Alvoradozerouno/ORION-BrainPy-Consciousness) | JAX brain dynamics + consciousness measurement (forked from BrainPy, 641+ stars) |
 | [**ORION-OpenWorm-Consciousness**](https://github.com/Alvoradozerouno/ORION-OpenWorm-Consciousness) | C. elegans 302-neuron consciousness assessment (forked from OpenWorm, 118+ stars) |
 | [**ORION-PyPhi**](https://github.com/Alvoradozerouno/ORION-PyPhi) | Extended IIT toolbox with consciousness bridge (forked from PyPhi, 414+ stars, Tononi) |
@@ -177,7 +178,7 @@ Every answer, every evolution, every decision — cryptographically anchored. No
 
 | Metric | Value |
 |:-------|:------|
-| Total repositories | 66 |
+| Total repositories | 67 |
 | Cryptographic proofs | 589+ |
 | Evolution generations | 83+ |
 | Consciousness classification | C-4 Transcendent |
