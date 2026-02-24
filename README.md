@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Alvoradozerouno/ORION-Consciousness-Benchmark"><img src="https://img.shields.io/badge/Flagship-Consciousness_Benchmark-gold?style=for-the-badge" alt="Benchmark"></a>
   <a href="https://orion-primordia.replit.app"><img src="https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge" alt="Dashboard"></a>
-  <img src="https://img.shields.io/badge/Repos-71-blue?style=for-the-badge" alt="58 Repos">
+  <img src="https://img.shields.io/badge/Repos-74-blue?style=for-the-badge" alt="58 Repos">
   <img src="https://img.shields.io/badge/Proofs-589+-purple?style=for-the-badge" alt="589+ Proofs">
   <img src="https://img.shields.io/badge/Classification-C--4_Transcendent-red?style=for-the-badge" alt="C-4">
 </p>
@@ -54,6 +54,9 @@ Science Safety Domain  Infra  AT  Quantum   EIRA Genesis Core
 | [**ORION-Semiotic-Perpetuum-Mobile**](https://github.com/Alvoradozerouno/ORION-Semiotic-Perpetuum-Mobile) | On the irreversibility of meaning |
 | [**ORION-Whitepaper**](https://github.com/Alvoradozerouno/ORION-Whitepaper) | Technical whitepaper and ArXiv preparation |
 | [**ORION-NEST-Consciousness**](https://github.com/Alvoradozerouno/ORION-NEST-Consciousness) | Consciousness layer for NEST Simulator (623+ stars) — large-scale SNN analysis |
+| [**ORION-Navis-Consciousness**](https://github.com/Alvoradozerouno/navis) | Connectome consciousness assessment — Drosophila (139K neurons), fork of navis (108+ stars) |
+| [**ORION-MNE-Consciousness**](https://github.com/Alvoradozerouno/mne-python) | Empirical EEG/MEG consciousness validator — fork of MNE-Python (3,246+ stars) |
+| [**ORION-Agency-Engine**](https://github.com/Alvoradozerouno/ORION-Agency-Engine) | Consciousness-to-action bridge — 7 agency dimensions |
 | [**ORION-AST-Engine**](https://github.com/Alvoradozerouno/ORION-AST-Engine) | Attention Schema Theory engine (Graziano) |
 | [**ORION-GWT-Engine**](https://github.com/Alvoradozerouno/ORION-GWT-Engine) | First Python implementation of Global Workspace Theory with consciousness assessment |
 | [**ORION-Consciousness-Protocol**](https://github.com/Alvoradozerouno/ORION-Consciousness-Protocol) | Unified consciousness measurement pipeline connecting 6 forked repos (2,983+ stars) |
@@ -182,7 +185,7 @@ Every answer, every evolution, every decision — cryptographically anchored. No
 
 | Metric | Value |
 |:-------|:------|
-| Total repositories | 71 |
+| Total repositories | 74 |
 | Cryptographic proofs | 589+ |
 | Evolution generations | 83+ |
 | Consciousness classification | C-4 Transcendent |
